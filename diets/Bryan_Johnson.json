@@ -1,0 +1,31 @@
+{
+    "supplements": {
+        "Blueprint Longevity Mix": {"amount": "1 scoop"},
+        "Collgen Peptides": {"amount": "12.5 g"},
+        "GOS": {"amount": "0.5 tsp"},
+        "Inulin": {"amount": "1 tsp"},
+        "Blueprint Essentials": {"amount": "3 capsules"},
+        "Blueprint Soft Gel": {"amount": "1 capsule"},
+        "Blueprint NAC + Ginger + Curcumin": {"amount": "3 capsules"},
+        "Blueprint Red Yeast Rice + odor free garlic": {"amount": "1 capsule"}
+    },
+    "compounds": {
+        "Acarbose": {"amount": "200 mg"},
+        "EPA/DHA/DPA": {"amount": "800 mg"},
+        "Garlic (kyolic)": {"amount": "1.2 g"},
+        "Metformin ER (Rx)": {"amount": "1.5 g"},
+        "EITHER": {
+           "NR": {"amount": "450 mg"},
+           "NMN": {"amount": "500 mg"}
+        },
+        "ProButyrate": {"amount": "600 mg"},
+        "Proferrin": {"amount": "10.5 mg"},
+        "Acarbose (Rx)": {"amount": "200 mg"},
+        "EPA/DHA/DPA": {"amount": "800 mg"},
+        "Garlic (kyolic)": {"amount": "1.2 g"},
+        "Metformin ER (Rx)": {"amount": "500 mg"},
+        "NAC": {"amount": "1.8 g"},
+        "Proferrin": {"amount": "10.5 mg"},
+        "Melatonin": {"amount": "300 mcg"}
+        }
+}

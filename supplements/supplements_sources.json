@@ -1,5 +1,8 @@
 {
     "Bulk_longevity_capsules": {"file": "Bulk_longevity_capsules.xlsx", "link": "https://www.bulk.com/uk/longevity-capsules.html", "serving_size": "4 capsules"},
     "Bulk_Complete_Multivitamin_Complex": {"file": "Bulk_Complete_Multivitamin_Complex.xlsx", "link": "https://www.bulk.com/uk/complete-multivitamin-complex.html", "serving_size": "3 capsules"},
-    "Blueprint_essential_capsules": {"file": "Blueprint_essential_capsules.xlsx", "link": "https://blueprint.bryanjohnson.com/collections/coming-soon/products/essentials-capsules", "serving_size": "3 capsules"}
+    "Blueprint Essentials": {"file": "Blueprint_essential_capsules.xlsx", "link": "https://blueprint.bryanjohnson.com/collections/coming-soon/products/essentials-capsules", "serving_size": "3 capsules"},
+    "Blueprint Longevity Mix": {"file": "Blueprint_longevity_mix.xlsx", "link": "https://blueprint.bryanjohnson.com/collections/all-products/products/longevity-blend-multinutrient-drink-mix-blood-orange-flavor", "serving_size": "1 scoop", "notes": "1 scoop = 18.3 g"},
+    "Blueprint Soft Gel": {"file": "Blueprint_Essential_Softgel.xlsx", "link": "https://blueprint.bryanjohnson.com/collections/coming-soon/products/essential-softgels", "serving_size": "1 capsules"},
+    "Blueprint NAC + Ginger + Curcumin": {"file": "Blueprint_NAC_Ginger_Curcumin.xlsx", "link": "https://blueprint.bryanjohnson.com/collections/coming-soon/products/nac-ginger-capsules", "serving_size": "3 capsules"}
 }
